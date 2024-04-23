@@ -1,4 +1,4 @@
-package com.example.jpa.springexamples;
+package com.example.jpa.springexamples.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

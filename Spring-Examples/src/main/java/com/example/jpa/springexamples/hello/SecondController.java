@@ -1,4 +1,4 @@
-package com.example.jpa.springexamples;
+package com.example.jpa.springexamples.hello;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.*;

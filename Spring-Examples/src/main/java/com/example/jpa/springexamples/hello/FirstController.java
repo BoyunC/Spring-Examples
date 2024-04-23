@@ -1,4 +1,4 @@
-package com.example.jpa.springexamples;
+package com.example.jpa.springexamples.hello;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -34,14 +34,5 @@ public class FirstController {
 
         return "hello world";
     }
-
-    /*
-     *  [ 조건 ]
-     *  - Controller 어노테이션 이용
-     *  - Rest을 이용해 주소 매핑
-     *  - HTTP 메소드 : GET
-     *  - 리턴값 : "hello spring"
-     *  - url 주소 : /hello-spring
-     */
 
 }
